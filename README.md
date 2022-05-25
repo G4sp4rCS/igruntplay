@@ -1,7 +1,7 @@
 # Welcome !!
 
-*Grunt@igruntplay-gh: ~$ whoami
-Grunt*
+*Grunt@igruntplay-gh: ~$ whoami*
+*Grunt*
 
 <!--
 **igruntplay/igruntplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
