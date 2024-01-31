@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m a computer science and cybersecurity student.
 - 🇦🇷 I Live in Buenos Aires city.
 - 👨‍💻 I’m currently working in AppSec
-- ⚡ I also have interest in Cloud security, DevSecOps, OSINT, Malware development, kernel exploits and smart contracts security.
+- ⚡ I also have interest in Pentesting, Bug Bounty, Cloud security, DevSecOps, OSINT, Malware development, kernel exploits and smart contracts security.
+- EJPT cert
 
  [Check my website](https://grunt.ar/) //
  [Check my blog](https://igruntplay.github.io/)
